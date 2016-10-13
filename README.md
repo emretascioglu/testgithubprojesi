@@ -1,2 +1,2 @@
 # testgithubprojesi
-Repository Test
+Test.
